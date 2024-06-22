@@ -1,52 +1,52 @@
-# Multipurpose V5 Discord Bot
+# Multipurpose V5 Discord Bot / Универсальный Дискорд-бот версии 5
 
-![Made With ♥ By Team Encoders](https://images-ext-1.discordapp.net/external/0hS92G9lV4cS2eQz9Fgci136sXDpH42K-Uiz3xTzCq4/https/i.imgur.com/6CejBZ9.jpg?format=webp&width=814&height=458)
+![Сделано с помощью ♥ Командой кодировщиков / переведено @fardieov](https://images-ext-1.discordapp.net/external/0hS92G9lV4cS2eQz9Fgci136sXDpH42K-Uiz3xTzCq4/https/i.imgur.com/6CejBZ9.jpg?format=webp&width=814&height=458)
 
-## What is Multipurpose V5?
+## Что такое многоцелевой V5?
 
-**V5** is a versatile and powerful Discord bot designed to enhance your server experience with a wide range of features including moderation, music, fun commands, and more. Built with scalability and customization in mind, V5 aims to be your go-to bot for managing and engaging your Discord community.
+** V5 ** - это универсальный и мощный Discord-бот, разработанный для улучшения работы вашего сервера с помощью широкого спектра функций, включая модерацию, музыку, забавные команды и многое другое. Созданный с учетом масштабируемости и кастомизации, V5 призван стать вашим незаменимым ботом для управления вашим сообществом Discord и привлечения к нему внимания.
 
-## Updates And News
+## Обновления И Новости
 
-- **Zero Errors**
-- **Updated Giveaways**
-- **Updated Emojis**
-- **More Efficient & Easy to use**
-- **Premium System**
-- **Updated Automods and Antinukes**
-- **New Captcha Verification Module**
-- **Many Other New Modules**
+- ** Ноль ошибок**
+- ** Обновлены раздачи подарков**
+- ** Обновлены эмодзи**
+- ** Более эффективны и просты в использовании**
+- ** Система премиум-класса**
+- ** Обновлены автомоды и средства защиты от мошенничества**
+- ** Новый модуль проверки Captcha**
+- **Множество других Новых Модулей**
 
-## How to Use
+## Как использовать
 
-## Installation
+## Установка
 
-### Prerequisites
+### Предварительные требования
 
-- [Python](https://www.python.org/) 3.8 or higher
-- [discord.py](https://pypi.org/project/discord.py/) 2.3.2
-- A Discord Bot Token ([Create a bot here](https://discord.com/developers/applications))
+- [Python](https://www.python.org/) 3.8 или выше
+- [discord.py](https://pypi.org/project/discord.py/) 2.3.2 или выше
+- Токен бота Discord ([Create a bot here](https://discord.com/developers/applications))
 
-### Installation Steps
+### Этапы установки
 
-1. **Clone the repository:**
+1. **Клонировать репозиторий:**
    ```sh
-   git clone https://github.com/ashhead/Multipurpose-Bot-V5.git
+   гит клон https://github.com/ashhead/Multipurpose-Bot-V5.git
    cd Multipurpose-Bot-V5
    ```
 
-2. **Create and activate a virtual environment (optional but recommended):**
+2. **Создание и активация виртуальной среды (необязательно, но рекомендуется):**
    ```sh
    python -m venv venv
    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
    ```
 
-3. **Install dependencies:**
+3. **Установка зависимостей:**
    ```sh
    pip install -r requirements.txt
    ```
 
-4. **Setup your `info.json` file:**
+4. **Настройте свой файл `info.json".:**
    - Create an `info.json` file in the root directory.
    - Add your configuration details in the following format:
      ```json
@@ -67,34 +67,35 @@
     }
      ```
 
-5. **Run the bot:**
+5. **Запустить бота:**
    ```sh
    python main.py
    ```
 
 ---
 
-Feel free to customize the file paths or configuration details as needed. This should help users get your Python-based Discord bot up and running smoothly.
+Не стесняйтесь настраивать пути к файлам или детали конфигурации по мере необходимости. Это должно помочь пользователям наладить бесперебойную работу вашего Discord-бота на основе Python.
 
 
-## Links
+## Ссылки
 
-- **GitHub Repository**: [https://github.com/ashhead/Multipurpose-Bot-V5.git](https://github.com/ashhead/Multipurpose-Bot-V5.git)
-- **Codesandbox**: []
-- **Invite the Bot**: [Link to invite the bot to your server](https://discord.com/oauth2/authorize?client_id=1071808240981127258)
+- **Репозиторий на GitHub**: [https://github.com/ashhead/Multipurpose-Bot-V5.git](https://github.com/ashhead/Multipurpose-Bot-V5.git)
+- **Кодовый ящик**: []
+- **Пригласите бота**: [Ссылка для приглашения бота на ваш сервер](https://discord.com/oauth2/authorize?client_id=1071808240981127258)
 
-## Support
+## Поддержка
 
-If you encounter any issues or have any questions, please feel free to open an issue on GitHub or join our support server on Discord.
+Если у вас возникнут какие-либо проблемы или возникнут какие-либо вопросы, пожалуйста, не стесняйтесь открывать проблему на GitHub или присоединяйтесь к нашему серверу поддержки в Discord.
 
-- **GitHub Issues**: [https://github.com/ashhead/Multipurpose-Bot-V5/issues](https://github.com/ashhead/Multipurpose-Bot-V5/issues)
-- **Discord Support Server**: [Invite Link to Support Server](https://discord.gg/encoders)
+- **Проблемы с GitHub**: [https://github.com/ashhead/Multipurpose-Bot-V5/issues](https://github.com/ashhead/Multipurpose-Bot-V5/issues)
+- **Сервер поддержки Discord**: [Invite Link to Support Server](https://discord.gg/encoders)
 
-## Authors
+## Авторы:
 
-- **Ash3r** - *Initial work* - [ashhead](https://github.com/ashhead)
-- **Contributors** - [List of contributors](https://github.com/ashhead/Multipurpose-Bot-V5/graphs/contributors)
+--> **fardieov** - *Переводчик репозитория* [fardieov](https://github.com/fardieov)
+- **Ash3r** - *Начальная работа* - [ashhead](https://github.com/ashhead)
+- **Составители** - [Список участников](https://github.com/ashhead/Multipurpose-Bot-V5/graphs/contributors)
 
-## License
+## Лицензия
 
-This project is licensed under the MIT License.
+Этот проект лицензирован по лицензии MIT
